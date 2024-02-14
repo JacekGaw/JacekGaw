@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! My name is Jacek and I'm currently looking for my first oportunity 
 to work as a Junior FrontEnd Programmer. 
 
-# 📫 How to reach me: 
+#### 📫 How to reach me: 
 Email: jac.gawlyta@gmail.com
 
-# 🛠 Tech Stack
+#### 🛠 Tech Stack
 - React JS
 - JavaScript
 - TailwindCSS
@@ -14,7 +14,7 @@ Email: jac.gawlyta@gmail.com
 - Firebase
 - Python
 
-# 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 - TypeScript
 - NodeJS with Express
 - Python
