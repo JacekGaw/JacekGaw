@@ -1,24 +1,27 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! My name is Jacek and I'm currently looking for my first oportunity 
-to work as a Junior FrontEnd Programmer. 
+Welcome to my GitHub profile! My name is Jacek and I am a software developer. If you have any questions for me, or just want to chat, hit me up!
 
 #### 📫 How to reach me: 
 Email: jac.gawlyta@gmail.com
 
 #### 🛠 Tech Stack
 - React JS
-- JavaScript
-- TailwindCSS
-- HTML5, CSS3
+- JavaScript, Typescript
+- Node JS with Express
+- HTML5, CSS3, TailwindCSS
 - Firebase
-- Python
+- Python, Flask
+- Selenium
+- SQL, MySQL, PostgreSQL, MongoDB
+- Working with ai models
+- Git, Docker, Postman, CI/CD
 
 #### 🌱 I’m currently learning
-- TypeScript
-- NodeJS with Express
-- Python
-- Working with ai models
+- TypeScript (more advanced)
+- Next JS
+- Python (Machine Learning and Data Visualizations)
+
 
 
 
