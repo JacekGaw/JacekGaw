@@ -4,6 +4,7 @@ Welcome to my GitHub profile! My name is Jacek and I am a software developer. If
 
 #### 📫 How to reach me: 
 Email: jac.gawlyta@gmail.com
+LinkedIn: https://www.linkedin.com/in/jacek-gawlyta/
 
 #### 🛠 Tech Stack
 - React JS
